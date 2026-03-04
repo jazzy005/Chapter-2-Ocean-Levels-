@@ -21,13 +21,14 @@ int main()
 	p = 10;
 	sum = 0;
  double riser = annualRise * r;
- cout << riser << " Is what the ocean level will be in 5 years "<<endl;
-
+ cout << "In 5 years the oceans level will be " << riser << "."<<endl;
  double risey = annualRise * y;
- cout << risey << " Is what the ocean level will be in 7 years " << endl;
-
+ cout << "In 7 years the oceans level will be " << risey << "." << endl;
  double risep = annualRise * p;
- cout << risep << " Is what the ocean level will be in 10 years " << endl;
- 
+ cout << "In 10 years the oceans level will be " << risep << "." << endl;
+
 
 }
+//cout << risep << " Is what the ocean level will be in 10 years " << endl;
+//cout << risey << " Is what the ocean level will be in 7 years " << endl;
+//cout << riser << " Is what the ocean level will be in 5 years " << endl;
