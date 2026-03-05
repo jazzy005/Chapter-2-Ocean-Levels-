@@ -2,9 +2,9 @@
 Jasmine Beale
 3/2/26
 Requierments:
-1.Create 3 variables.
-2.Assign variables with 15 and 375.
-3.Divide the two variables and store it in the 3rd variable.
+ 1. Create variables for force, area, and pressure.
+ 2. Assign values 172.5 to force and 27.5 to area.
+ 3. Calculate pressure by dividing area by force.
 4.Display factors and the sum to the console
 */
 
