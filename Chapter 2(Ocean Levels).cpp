@@ -2,10 +2,10 @@
 Jasmine Beale
 3/4/26
 Requierments:
- 1. Create variables for force, area, and pressure.
- 2. Assign values 172.5 to force and 27.5 to area.
- 3. Calculate pressure by dividing area by force.
-4.Display factors and the sum to the console
+1. Store the annual ocean level rise (1.5 millimeters per year).
+2. Create variables representing 5, 7, and 10 years.
+3. Calculate the ocean level rise for each time period.
+4. Display the results to the console.
 */
 
 
